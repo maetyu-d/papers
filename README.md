@@ -2,7 +2,7 @@
 
 [Mat Dalgleish](m.dalgleish2@wlv.ac.uk) and [Matt Bellingham](matt.bellingham@wlv.ac.uk)
 
-Presented at Learning On/With the Open Web. DMLL. Coventry, UK. 25th October 2018.
+Presented at [Learning On/With the Open Web](https://www.conf.owlteh.org/). DMLL. Coventry, UK. 25th October 2018.
 
 Music recording began to be taken seriously after the first world war but its commercial expansion in the 1920s drew mainly from developments in radio and the ideal was one of naturalism. However, if the studio initially had a documentary role, the perhaps inevitable desire to heighten the effect of recorded music spurred the use of enhancement technologies to manipulate tonal and dynamic balance. Over time this creative curiosity transformed the studio into a space for sonic experimentation; the studio became a kind of playable instrument that could produce artefacts far beyond what could be achieved in a live performance (e.g. The Beatles Sgt Peppers, the Beach Boys Pet Sounds).
 
